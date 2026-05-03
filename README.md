@@ -1,8 +1,8 @@
-#Rolling Dice Game
+# Rolling Dice Game
 
 This was my GCSE Computer Science Non-Exam Assessment, made before all these AIs were taking over the coding world.
 
-##Requirements to Run
+## Requirements to Run
 
 Uses Python 3.9.6 and Pygame 2.5.1
 
@@ -13,7 +13,7 @@ This name can be changed if you want to for some reason on lines 2614 and 2642
 
 Modules imported: random, time, pygame, math
 
-##Features
+## Features
 
 Dice are proper cubes rendered as their 8 vertices and lines drawn between them where needed, with the visible faces having their pits on.
 
@@ -27,7 +27,7 @@ The dice work by having a random start orientation then  being rolled and whiche
 
 A tutorial is available, as well as credits and different them colours
 
-##Rounds & Scoring
+## Rounds & Scoring
 
 There are 5 rounds
 Each round each player rolls 2 dice
@@ -44,7 +44,7 @@ If there's a draw the players both roll an extra die and the greatest roll wins 
 
 (We didn't get to choose the game design here)
 
-##Creator Notes
+## Creator Notes
 
 Was definitely enjoyable and an experience to code.
 Could've done something basic and text based, but there's no fun in that.
