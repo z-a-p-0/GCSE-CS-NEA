@@ -25,7 +25,7 @@ The sybmols, letters, numbers, etc is all hard-coded in with the specific way al
 
 The dice work by having a random start orientation then  being rolled and whichever face is on the top is then the actual number used.
 
-A tutorial is available, as well as credits and different them colours
+A tutorial is available, as well as credits and different theme colours
 
 ## Rounds & Scoring
 
